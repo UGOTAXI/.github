@@ -13,8 +13,9 @@
     <a href="https://github.com/kavkaco/Kavka-Core/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-
-    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6af1a22ef1f849dc8e8946a3dcc0c724)](https://app.codacy.com/gh/UGOTAXI/modern-go-clean-architecture/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+    <a href="https://app.codacy.com/organizations/gh/UGOTAXI/dashboard">
+      <img src="https://app.codacy.com/project/badge/Grade/6af1a22ef1f849dc8e8946a3dcc0c724)](https://app.codacy.com/gh/UGOTAXI/modern-go-clean-architecture/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"/>
+    </a>
   </p>
 </div>
  
